@@ -15,3 +15,15 @@ return
 !q::
 SendInput, !{F4}
 return
+
+!s::
+SendInput ^s
+return
+
+!r::
+Send ^r
+return
+
+!n::
+Send ^n
+return
