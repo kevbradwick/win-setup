@@ -27,3 +27,7 @@ return
 !n::
 Send ^n
 return
+
+!t::
+Send ^t
+return
